@@ -1,3 +1,4 @@
+#Adding a comment where there's none
 print "Triangle height: "
 h = gets.to_f;
 print "Triangle width: "
