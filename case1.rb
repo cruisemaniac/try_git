@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #for merge conflict
 
+=======
+>>>>>>> origin/new_code
 for i in (1..10)
     rno = rand(100) + 1
     msg = case rno
@@ -14,5 +17,8 @@ for i in (1..10)
     end
     print "Result: ", rno, ": ", msg, "\n"
 end
+<<<<<<< HEAD
 
 #some more change for merge conflict
+=======
+>>>>>>> origin/new_code
