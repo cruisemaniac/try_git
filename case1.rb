@@ -1,3 +1,5 @@
+#for merge conflict
+
 for i in (1..10)
     rno = rand(100) + 1
     msg = case rno
