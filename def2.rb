@@ -1,3 +1,4 @@
+# touching the file
 # Place the array in a random order.  Floyd's alg.
 def shuffle(arr)
     for n in 0...arr.size
