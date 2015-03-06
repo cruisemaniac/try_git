@@ -1,3 +1,4 @@
+#touching file
 # Count and report the number of lines and characters in a file.
 print "File name: "
 fn = gets.chomp

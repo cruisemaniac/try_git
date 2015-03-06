@@ -1,3 +1,4 @@
+#touching this file too
 # Get a chomped string, or nil at EOF.
 def getstr
     print "Please enter a test string: "
